@@ -10,6 +10,7 @@ Analisis mencakup distribusi event, produk populer, dan statistik deskriptif.
 - Matplotlib
 
  Dataset
+ 
 Dataset yang digunakan adalah data transaksi e-commerce:
 - File: `2019-Oct.csv` dan `2019-Nov.csv`.
 - Dataset berisi informasi event (seperti klik, pembelian) dan produk.
@@ -23,7 +24,7 @@ Dataset yang digunakan adalah data transaksi e-commerce:
 - `ecommerce_analysis.ipynb`: Kode Python untuk analisis dataset.
 - `ecommerce_combined_data.csv`: Dataset gabungan dari file `2019-Oct.csv` dan `2019-Nov.csv`.
 
- Visualisasi\
+ Visualisasi
 - Distribusi tipe event (klik, pembelian, dll.).
 - Top 10 produk dengan jumlah event terbanyak.
 
