@@ -1,5 +1,15 @@
 E-commerce Data Analysis
 
+This project analyzes e-commerce sales data using Python.
+
+📂 Dataset
+The dataset is stored in a ZIP file containing:
+- `2019-Oct.csv` (E-commerce transactions for October 2019)
+- `2019-Nov.csv` (E-commerce transactions for November 2019)
+
+Download ZIP file from this repository:
+📥https://drive.google.com/drive/folders/1lXMwYSVamhIKB5y6phrZSnlHYMYHMwOB?usp=sharing
+
 Proyek ini menganalisis dataset e-commerce yang berisi data transaksi pengguna.
 Analisis mencakup distribusi event, produk populer, dan statistik deskriptif.
 
